@@ -1,6 +1,5 @@
 package main.java.set.Ordenacao;
 
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
